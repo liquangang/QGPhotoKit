@@ -72,7 +72,6 @@
 		0765A2121F39E478003D4F73 /* UIViewController+AuthorityManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIViewController+AuthorityManager.m"; sourceTree = "<group>"; };
 		0789A1F51F330DE6004AAD75 /* QGPhotoKit.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = QGPhotoKit.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		0789A1F81F330DE6004AAD75 /* QGPhotoKit.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = QGPhotoKit.h; sourceTree = "<group>"; };
-		0789A1F91F330DE6004AAD75 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		5F9EC4E11E4D4DD897C55774 /* Pods-QGPhotoKit.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-QGPhotoKit.release.xcconfig"; path = "Pods/Target Support Files/Pods-QGPhotoKit/Pods-QGPhotoKit.release.xcconfig"; sourceTree = "<group>"; };
 		766F4D49B3AB7D6AB328BB6A /* libPods-QGPhotoKit.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-QGPhotoKit.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		86112692F3132B22FB180771 /* Pods-QGPhotoKit.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-QGPhotoKit.debug.xcconfig"; path = "Pods/Target Support Files/Pods-QGPhotoKit/Pods-QGPhotoKit.debug.xcconfig"; sourceTree = "<group>"; };
@@ -173,7 +172,6 @@
 			children = (
 				0765A1F21F39E478003D4F73 /* PhotoKit */,
 				0789A1F81F330DE6004AAD75 /* QGPhotoKit.h */,
-				0789A1F91F330DE6004AAD75 /* Info.plist */,
 			);
 			path = QGPhotoKit;
 			sourceTree = "<group>";

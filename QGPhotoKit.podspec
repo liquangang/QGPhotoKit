@@ -10,7 +10,7 @@ Pod::Spec.new do |s|
     s.license      = { :type => "MIT", :file => "LICENSE" }
     s.author       = { "liquangang" => "1347336730@qq.com" }
     s.source       = { :git => "https://github.com/liquangang/QGPhotoKit.git", :tag => "#{s.version}" }
-    s.source_files  = "QGPhotoKit/PhotoKit/*"
+    s.source_files  = "QGPhotoKit/*"
     s.dependency 'LQGWaterLayout'
     s.dependency 'Masonry'
 end

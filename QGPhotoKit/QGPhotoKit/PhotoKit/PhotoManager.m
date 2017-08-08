@@ -7,7 +7,6 @@
 //
 
 #import "PhotoManager.h"
-#import "AlbumModel.h"
 
 #define THUMBNAILSIZE CGSizeMake(SCREENSCALE * THUMBNAILWIdth, SCREENSCALE * THUMBNAILWIdth)       //缩略图size
 #define PREVIEWSIZE  CGSizeMake(SCREENSCALE * SCREEN_WIDTH, SCREENSCALE * SCREEN_WIDTH)            //预览图size

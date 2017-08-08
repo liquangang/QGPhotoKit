@@ -8,6 +8,14 @@
 
 #import <Foundation/Foundation.h>
 #import <Photos/Photos.h>
+#import "LQGPhotoKitViewController.h"
+#import "UIApplication+AuthorityManager.h"
+#import "UIViewController+AuthorityManager.h"
+#import "AlbumModel.h"
+#import "AssetModel.h"
+#import "PhotoHomeViewController.h"
+#import "PhotoPreviewViewController.h"
+#import "PhotoViewController.h"
 
 #define WEAKSELF __weak __typeof(&*self)weakSelf = self;        //弱引用宏
 

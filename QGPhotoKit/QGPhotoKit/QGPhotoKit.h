@@ -7,6 +7,7 @@
 //
 
 #import <UIKit/UIKit.h>
+#import "PhotoManager.h"
 
 //! Project version number for QGPhotoKit.
 FOUNDATION_EXPORT double QGPhotoKitVersionNumber;
@@ -15,5 +16,3 @@ FOUNDATION_EXPORT double QGPhotoKitVersionNumber;
 FOUNDATION_EXPORT const unsigned char QGPhotoKitVersionString[];
 
 // In this header, you should import all the public headers of your framework using statements like #import <QGPhotoKit/PublicHeader.h>
-
-
